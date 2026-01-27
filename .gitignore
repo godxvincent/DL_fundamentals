@@ -2,3 +2,6 @@ Untitled1.ipynb
 .ipynb_checkpoints/
 __pycache__
 venv
+
+*data*
+*mnist*
